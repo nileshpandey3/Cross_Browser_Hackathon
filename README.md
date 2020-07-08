@@ -1,4 +1,4 @@
-# Eyes Python Selenium Ultrafastgrid Tutorial
+# Hackathon(Modern)
 ### Pre-requisites:
 
 1. Python 3 is installed on your machine.  [Install Python 3.](https://realpython.com/installing-python/) 
@@ -10,13 +10,9 @@
 6. If you want to run example from IDE, install any IDE for Python (e.g. [PyCharm](https://www.jetbrains.com/pycharm/download/) )
 
 ### Run the example
-Start with the ready-to-run code [Github repo]( https://github.com/applitools/tutorial-selenium-python-ultrafastgrid)
 1. Git clone this repo
-`git clone https://github.com/applitools/tutorial-selenium-python-ultrafastgrid.git`, or download [this as a Zip file](https://github.com/applitools/tutorial-selenium-python-ultrafastgrid/archive/master.zip) and unzip it
-3. `cd tutorial-selenium-python-ultrafastgrid`
-4. Open in any editor file `ultrafastgrid_demo.py ` and set your ApiKey in string `.set_api_key('...')`
+3. cd to the project directory
+4. Use preferably Pycharm IDE 
 5. Install requirements `pip install -r requirements.txt`
-6. Run `ultrafastgrid_demo.py` by calling `python ultrafastgrid_demo.py` 
-7. If you want run from IDE - start PyCharm, open just cloned project, set project interpreter by File > Settings > Project: > Project Interpreter  choose interpreter by dropdown box; tap Run and choose `ultrafastgrid_demo`.
+6. Start PyCharm, open just cloned project, set project interpreter by File > Settings > Project: > Project Interpreter  choose interpreter by dropdown box; tap Run and choose the files under Folder ModernTestsV1 then ultrafastgrid_demo_Task1.py and right click on the file and Hit Run to see the First task and similarly the Rest of the Files under the Folder ModernTestsV1 (For V2 part of the task)
 
-Read more here: https://www.applitools.com/tutorials/selenium-python.html
